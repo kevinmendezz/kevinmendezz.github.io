@@ -569,8 +569,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/torn-image-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/torn-image-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -579,8 +579,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/after-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/after-2000x2500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -602,7 +602,57 @@
                 "thumb": "@PROJECT_PATH@/assets/images/back-to-the-future-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/back-to-the-future-2000x2962.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-einstein-jpeg-2000x1545-800x618.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-einstein-jpeg-2000x1545.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/polka-dots-with-name-2000x1128-800x451.jpg",
+                "image": "@PROJECT_PATH@/assets/images/polka-dots-with-name-2000x1128.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rolo-wrapper-finished-2000x1700-800x680.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-wrapper-finished-2000x1700.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/torn-image-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/torn-image-2000x1333.jpg",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "9th Grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/torn-image-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/torn-image-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 1,
