@@ -472,9 +472,10 @@ h6,
 #ext_menu-2j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-2g .mbr-section-title,
-#header3-2g .mbr-section-subtitle {
-  text-align: center;
+#content8-2r .mbr-section-title,
+#content8-2r p {
+  text-align: right;
+  color: #fff;
 }
 #gallery1-2f .mbr-gallery-item > div > span {
   text-align: center;
