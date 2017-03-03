@@ -135,7 +135,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2146,14 +2146,14 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-25",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "30",
             "paddingTop": "3",
             "paddingBottom": "0",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
             "bgColor": "#c0a375",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -2161,7 +2161,7 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -2169,11 +2169,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/my-logo-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -2187,8 +2188,7 @@
               "name": "play",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 250,
-              "active": true
+              "size": 250
             }
           },
           "title": "KEVIN MENDEZ",
