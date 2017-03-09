@@ -560,6 +560,10 @@ h6,
 #slider2-2u .mbr-section-lead {
   color: #fff;
 }
+#social-buttons2-2v .mbr-section-title,
+#social-buttons2-2v .btn-social {
+  color: #232323;
+}
 #menu-23 .hide-buttons .nav-btn {
   display: none !important;
 }
