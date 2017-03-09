@@ -543,10 +543,21 @@ h6,
 }
 #ext_menu-11 .link[aria-expanded="true"],
 #ext_menu-11 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375 !important;
+  color: #c0a375!important;
 }
 #msg-box8-2n .mbr-section-title,
 #msg-box8-2n p {
+  color: #fff;
+}
+#msg-box8-2n .mbr-section-title {
+  font-size: 8px;
+}
+#msg-box8-2t .mbr-section-title,
+#msg-box8-2t p {
+  color: #fff;
+}
+#slider2-2u .mbr-section-title,
+#slider2-2u .mbr-section-lead {
   color: #fff;
 }
 #menu-23 .hide-buttons .nav-btn {
