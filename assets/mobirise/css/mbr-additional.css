@@ -472,16 +472,19 @@ h6,
 #ext_menu-2j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#content5-2x .mbr-section-title,
-#content5-2x p {
+#msg-box8-2z .mbr-section-title,
+#msg-box8-2z p {
   color: #fff;
 }
 #gallery1-2f .mbr-gallery-item > div > span {
   text-align: center;
 }
-#social-buttons2-2s .mbr-section-title,
-#social-buttons2-2s .btn-social {
-  color: #232323;
+#social-buttons4-2y .mbr-section-title,
+#social-buttons4-2y .btn-social {
+  color: #fff;
+}
+#contacts4-2c UL {
+  text-align: left;
 }
 #ext_menu-11 .hide-buttons .nav-btn {
   display: none !important;
