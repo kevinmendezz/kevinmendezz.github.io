@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -443,19 +445,19 @@ h6,
 }
 #ext_menu-2j .link[aria-expanded="true"],
 #ext_menu-2j .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #ext_menu-2j .nav-dropdown-sm .link:focus,
 #ext_menu-2j .nav-dropdown-sm .link:hover,
 #ext_menu-2j .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-2j .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #ext_menu-2j .navbar,
 #ext_menu-2j .nav-dropdown-sm,
 #ext_menu-2j .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-2j .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #ext_menu-2j .bg-color.transparent .link {
   color: #ffffff;
@@ -475,6 +477,10 @@ h6,
 #msg-box8-2z .mbr-section-title,
 #msg-box8-2z p {
   color: #fff;
+}
+#msg-box8-2z .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 12px;
 }
 #gallery1-2f .mbr-gallery-item > div > span {
   text-align: center;

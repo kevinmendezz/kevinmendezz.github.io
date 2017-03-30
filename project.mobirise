@@ -70,13 +70,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,7 +95,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2j",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -110,7 +110,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/my-logo-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/untitled-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -153,12 +153,17 @@
           },
           "title": "Kevin J. Mendez",
           "text": "~~Welcome~~",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Come And See</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">My Story</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Press Me I Have No Friends</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">My Video Bio</a> "
         },
         {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "12px"
             }
           },
           "_tags": [
@@ -167,11 +172,11 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2z",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/my-logo-2000x2000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/my-logo3-2000x2000.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -183,11 +188,11 @@
             "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
-            "showButton": false
+            "showButton": true
           },
-          "title": "AR",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">My Biography</a>"
         },
         {
           "_tags": [
@@ -288,6 +293,11 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "UL": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts4-2c",
           "_params": {
             "paddingTop": 3,
@@ -331,12 +341,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "_styles": {
-            "UL": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
         },
         {
           "_tags": [
@@ -426,7 +431,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-11",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
