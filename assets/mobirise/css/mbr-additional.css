@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
 
 
 
@@ -473,14 +471,6 @@ h6,
 #ext_menu-2j .link[aria-expanded="true"],
 #ext_menu-2j .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#msg-box8-2z .mbr-section-title,
-#msg-box8-2z p {
-  color: #fff;
-}
-#msg-box8-2z .btn {
-  font-family: 'Oswald', sans-serif;
-  font-size: 12px;
 }
 #gallery1-2f .mbr-gallery-item > div > span {
   text-align: center;
